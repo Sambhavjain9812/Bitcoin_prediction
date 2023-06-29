@@ -37,8 +37,10 @@ Seaborn
 Scikit-Learn
 ACCURACIES
 
-Linear Regression Score = 0.9999539378804362
+Linear Regression Score = 0.9999539378804362 
+
 Random forest Regression Score = 0.9996591600661323
+
 Support Vector Regressor Score = 0.13660060536688778
 
 CONCLUSION
