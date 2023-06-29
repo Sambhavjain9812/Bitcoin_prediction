@@ -30,11 +30,12 @@ Random forest Regressor
 
 LIBRARIES NEEDED
 
-Numpy
+Numpy 
 Pandas
 Matplotlib
 Seaborn
 Scikit-Learn
+
 ACCURACIES
 
 Linear Regression Score = 0.9999539378804362 
