@@ -11,7 +11,7 @@ https://www.kaggle.com/vikramjeetsinghs/bitcoin-dataset
 
 DESCRIPTION
 
-This is a regression problem where we need to predict the price of Bitcoin. We use Linear, Lasso Regression and Decision tree Regressor
+This is a regression problem where we need to predict the price of Bitcoin. We use Linear Decision tree Regressor
 
 WHAT I HAD DONE
 
