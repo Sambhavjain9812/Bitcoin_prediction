@@ -3,7 +3,7 @@ Bitcoin Price Prediction
 
 GOAL
 
-Aim- To predict the price of the Bitcoin using Linear Regression, Lasso Regression & Decision Tree Regressor. Perform EDA
+Aim- To predict the price of the Bitcoin using Linear Regression,SVM & Decision Tree Regressor. Perform EDA
 
 DATASET
 
